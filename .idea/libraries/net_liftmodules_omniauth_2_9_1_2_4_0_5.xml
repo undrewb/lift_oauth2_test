@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="net.liftmodules_omniauth_2.9.1_2.4-0.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/net.liftmodules/omniauth_2.9.1/jars/omniauth_2.9.1-2.4-0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/net.liftmodules/omniauth_2.9.1/docs/omniauth_2.9.1-2.4-0.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/net.liftmodules/omniauth_2.9.1/srcs/omniauth_2.9.1-2.4-0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
