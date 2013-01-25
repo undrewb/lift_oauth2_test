@@ -31,7 +31,7 @@ libraryDependencies ++= {
 }
 
 libraryDependencies ++= Seq(
-  "net.liftmodules" %% "omniauth" % "2.4-0.5"
+  "net.liftmodules" %% "omniauth" % "2.4-0.6"
 )
 
 resolvers += "Omniauth repo" at "https://repository-liftmodules.forge.cloudbees.com/release"
